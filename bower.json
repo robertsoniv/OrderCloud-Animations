@@ -13,8 +13,8 @@
   ],
   "description": "The animation module for the OrderCloud 2.1 build process",
   "keywords": [
-    "['animation'",
-    "'ordercloud']"
+    "animation",
+    "ordercloud"
   ],
   "license": "MIT",
   "ignore": [
