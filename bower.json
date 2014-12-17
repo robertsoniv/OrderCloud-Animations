@@ -1,0 +1,27 @@
+{
+  "name": "ordercloud-animations",
+  "main": "src/ordercloud-animations.js",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gsap": "1.15.0",
+	"angular-animate": "1.3.5"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/robertsoniv/OrderCloud-Animations",
+  "authors": [
+    "Robert <rwatt@four51.com>"
+  ],
+  "description": "The animation module for the OrderCloud 2.1 build process",
+  "keywords": [
+    "['animation'",
+    "'ordercloud']"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
