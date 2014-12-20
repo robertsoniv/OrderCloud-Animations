@@ -48,7 +48,7 @@ angular.module('orderCloud.animations', ['ngAnimate'])
 		return {
 			enter : function(element, done) {
 				element[0].style.zIndex = 2;
-				TweenMax.from(element, 0.5, { opacity: 0, left: '-100%', right:'100%', onComplete: done, ease:Power2.easeOut, delay:0.1});
+				TweenMax.from(element, 0.5, { left: '-100%', right:'100%', onComplete: done, ease:Power2.easeOut, delay:0.1});
 			},
 			leave : function(element, done) {
 				element[0].style.zIndex = 1;
