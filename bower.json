@@ -1,7 +1,7 @@
 {
   "name": "ordercloud-animations",
   "main": "src/ordercloud-animations.js",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "devDependencies": {},
   "dependencies": {
 	  "gsap": "1.15.0",
